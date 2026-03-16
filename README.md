@@ -1,1 +1,1 @@
-# NLP-Prejects
+# NLP-Projects
