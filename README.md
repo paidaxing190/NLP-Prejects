@@ -11,7 +11,7 @@
   - 模型 BLEU 值达 **42.5**，较原 Seq2Seq 模型提升 **36.2%**
   - 基于 RTX 3060 训练，batch_size=32，训练效率提升 **25%**
   - 长句（≥50词）翻译流畅度提升 **15%**
-- **核心文件**：`model.py`（Transformer 模型实现）、`config.py`（参数配置）
+- **核心文件**：`translation-model.py`（Transformer 模型实现）、`config.py`（参数配置）
 
 ---
 
